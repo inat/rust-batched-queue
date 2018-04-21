@@ -1,0 +1,7 @@
+[package]
+name = "rust-batched-queue"
+version = "0.1.0"
+authors = ["inat <inaba1115@gmail.com>"]
+
+[dependencies]
+cons-list = "0.0.3"
